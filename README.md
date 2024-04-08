@@ -30,5 +30,4 @@ Author:
 [Devexv]
 
 License:
-This project is licensed under the [MIT License] License - see the LICENSE file for details.
-
+This project is licensed under the MIT License License - see the LICENSE file for details.
